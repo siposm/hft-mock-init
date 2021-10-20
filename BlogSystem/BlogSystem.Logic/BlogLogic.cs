@@ -85,5 +85,10 @@ namespace BlogSystem.Logic
         {
             return null; // TODO
         }
+
+        public IList<Blog> GetBlogsWithRudeComments()
+        {
+            return null; // TODO
+        }
     }
 }
